@@ -1,4 +1,4 @@
 # DoctorVee
 Testing class
 
-This is just for a basic understanding of git and Github
+This is just for everyone to understand what is going on here
